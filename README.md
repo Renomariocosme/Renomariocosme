@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, Meu nome é Renomario Cosme! Bem-vindo ao meu perfil 👋 
 
-||Desenvolvedora Java Full Stack Jr||
+||Desenvolvedor Java Full Stack Jr||
 
 
 
