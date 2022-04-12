@@ -1,31 +1,45 @@
-### :man_technologist: Olá, Meu nome é Renomario Cosme! Bem-vindo ao meu perfil 👋 
+<div>
+  <h1 align="center">Opa, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/renomariocosme/"><i>Renomário Cosme</i></a> 😉</h1>
+  <p align="center"> 
+  
+    
+  </a><br>
+  <p align="center"></h2>
+</div>
 
-||Desenvolvedor Java Full Stack Jr||
 
+<!-- <h1 align="center"> 
+  
+</h1>
 
+<p align="center"><i>""</i></p> -->
 
-#### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/renomario-cosme-6b1337142/)](https://www.linkedin.com/in/renomario-cosme-6b1337142/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renomario.cosme@gmail.com)](renomario.cosme@gmail.com)
+<div align="center">
+  <a href="https://github.com/Renomariocosme">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Renomariocosme&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-#### Conhecimento nas linguagens:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<!--![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)-->
+<div align="center" valign="top"><br>
+ 
+  
+  
+</div><br>
 
-#### Conhecimento nos Bancos de Dados:
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/renomariocosme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:renomario.cosme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-#### Conhecimento nas tecnologias:
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-<!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-#### Conhecimento nos Frameworks:
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) -->
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
-
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renomariocosme&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renomariocosme&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<div align="center">
+  <p></p>
+  <p></a></p>
+</div>
